@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me 😁
 <table>
   <tr>
-    <td">
+    <td>
         I'm a Software Developer 🧑‍💻
         I'm currently studying on Udacity 🎓
         I'm looking to collaborate on different projects 💻
