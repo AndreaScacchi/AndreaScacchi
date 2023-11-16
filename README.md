@@ -24,6 +24,10 @@ Here are some ideas to get you started:
         I'm interested in cybersecurety and AI 📚
         I love read scientific articles 🔭
         I'm passionate about videogames 🎮
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
       <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=2bn" width="400" alt="Andrea's Dev Card"/></a>
     </td>
   </tr>
