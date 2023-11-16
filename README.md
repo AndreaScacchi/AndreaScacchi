@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About mne 😁
+- I'm a Software Developer 🧑‍💻
+- I'm currently studying on Udacity 🎓
+- I'm looking to collaborate on different projects 💻
+- I'm interested in cybersecurety and AI 📚
+- I love videogames 🎮
