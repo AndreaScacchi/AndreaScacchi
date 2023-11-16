@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <li>I love to read scientific articles 🔭</li>
     </ul>
   </div>
-  <div style="padding: 10px; border: 1px solid #ccc; width: 50%;">
+  <div style="padding: 10px; border: 1px solid #ccc; width: 50%; text-align: center;">
     <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=2bn" width="400" alt="Andrea's Dev Card"/></a>
   </div>
 </div>
