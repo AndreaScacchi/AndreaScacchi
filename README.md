@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About me 😁
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="padding: 10px; border: 1px solid #ccc;">
+  <div style="padding: 10px; border: 1px solid #ccc; width: 50%;">
     <ul>
       <li>I'm a Software Developer 🧑‍💻</li>
       <li>I'm currently studying on Udacity 🎓</li>
