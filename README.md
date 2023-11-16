@@ -15,17 +15,36 @@ Here are some ideas to get you started:
 -->
 
 ## About me 😁
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="padding: 10px; border: 1px solid #ccc;">
-    I'm a Software Developer 🧑‍💻
-    I'm currently studying on Udacity 🎓
-    I'm looking to collaborate on different projects 💻
-    I'm interested in cybersecurety and AI 📚
-    I love read scientific articles 🔭
-    I'm passionate about videogames 🎮
-  </div>
+<style>
+  table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 
-  <div style="padding: 10px; border: 1px solid #ccc;">
-    <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=2bn" alt="Andrea's Dev Card"/></a>
-  </div>
-</div>
+  td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  img {
+    width: 400px;
+    height: auto;
+  }
+</style>
+
+<table>
+  <tr>
+    <td valign="center">
+        I'm a Software Developer 🧑‍💻
+        I'm currently studying on Udacity 🎓
+        I'm looking to collaborate on different projects 💻
+        I'm interested in cybersecurety and AI 📚
+        I love read scientific articles 🔭
+        I'm passionate about videogames 🎮
+    </td>
+    <td valign="center">
+      <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=2bn" alt="Andrea's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
