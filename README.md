@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   </div>
   <div style="padding: 10px; border: 1px solid #ccc; width: 50%; align: center;">
     <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaScacchi&hide_progress=true)
   </div>
 </div>
-
-## Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaScacchi&hide_progress=true)
