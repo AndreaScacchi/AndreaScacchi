@@ -31,7 +31,3 @@ Here are some ideas to get you started:
     <a href="https://app.daily.dev/ghostpy"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=2bn" width="400" height="auto" alt="Andrea's Dev Card"/></a>
   </div>
 </div>
-
-## Stats📈 
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrea&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="andrea" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andrea&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="andrea" /> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea&theme=highcontrast&hide_border=true" alt="andrea" /> </p>
