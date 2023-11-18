@@ -1,4 +1,6 @@
-# Hi, I'm Andrea <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
+# Hi, I'm Andrea <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
+
+
 <!--
 **AndreaScacchi/AndreaScacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
 
-## About me 😁
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="padding: 10px; border: 1px solid #ccc; width: 50%;">
     <ul>
