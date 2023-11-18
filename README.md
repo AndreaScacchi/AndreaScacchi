@@ -32,3 +32,4 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrea&theme=dracula&hide_border=true)
