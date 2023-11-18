@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->  
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: grid; grid-template-columns: 200; justify-content: space-between;">
   <div style="padding: 10px; border: 1px solid #ccc; width: 50%;">
     <ul>
       <li>I'm a Software Developer 🧑‍💻</li>
