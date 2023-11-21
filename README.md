@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->  
 
 <div>
-    <h2>A bit more on me 👀</h2>
+    <h2 align="center">A bit more on me 👀</h2>
     <ul>
         <li>I'm a Software Developer 🧑‍💻</li>
         <li>I'm currently studying on Udacity and different academic books 🎓</li>
