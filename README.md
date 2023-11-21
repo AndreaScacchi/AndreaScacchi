@@ -1,5 +1,6 @@
-# Hi, I'm Andrea <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
-
+<div>
+    <h1>Hi, I'm Andrea <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"></h1>
+</div>  
 
 <!--
 **AndreaScacchi/AndreaScacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
