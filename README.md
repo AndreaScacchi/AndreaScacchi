@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 <div>
     <h2 align="center">A bit more on me 👀</h2>
-    <p>I'm a self-taught Software Developer that love spending time reading documentation🧑‍💻</p>
-    <p>I'm currently studying on Udacity and different academic books. They are the fundamentals of my journey 🎓</p>
-    <p>I'm looking to collaborate on different projects. I know HTML, CSS, JS, and Python, but if I have to, I'll learn more 💻</p>
-    <p>I'm interested in cybersecurety and AI. They are really complicated, but at the same time really interesting 📚</p>
-    <p>I enjoy reading scientific articles. They are helping me to acquire more knowledge about the world and the universe 🔭</p>
-    <p>I enjoy playing videogames, but most of all, I really love reading news abut them 🎮</p>
-    <p>I love travelling around the world, and I can't wait to return in London 🛫</p>
+    <p> - I'm a self-taught Software Developer that love spending time reading documentation🧑‍💻</p>
+    <p> - I'm currently studying on Udacity and different academic books. They are the fundamentals of my journey 🎓</p>
+    <p> - I'm looking to collaborate on different projects. I know HTML, CSS, JS, and Python, but if I have to, I'll learn more 💻</p>
+    <p> - I'm interested in cybersecurety and AI. They are really complicated, but at the same time really interesting 📚</p>
+    <p> - I enjoy reading scientific articles. They are helping me to acquire more knowledge about the world and the universe 🔭</p>
+    <p> - I enjoy playing videogames, but most of all, I really love reading news abut them 🎮</p>
+    <p> - I love travelling around the world, and I can't wait to return in London 🛫</p>
 </div>
 
 
