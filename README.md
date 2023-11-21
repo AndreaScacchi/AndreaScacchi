@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-## Who I am
+## A bit more on me 👀
 <div>
     <ul>
         <li>I'm a Software Developer 🧑‍💻</li>
-        <li>I'm currently studying on Udacity and different academic books🎓</li>
+        <li>I'm currently studying on Udacity and different academic books 🎓</li>
         <li>I'm looking to collaborate on different projects 💻</li>
         <li>I'm interested in cybersecurety and AI 📚</li>
         <li>I enjoy reading scientific articles 🔭</li>
         <li>I enjoy playing videogames 🎮</li>
-        <li>I love travelling around the world 🗺️</li>
+        <li>I love travelling around the world 🛫</li>
     </ul>
 </div>
 
