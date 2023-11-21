@@ -28,8 +28,8 @@ Here are some ideas to get you started:
         <li>I'm currently studying on Udacity and different academics books🎓</li>
         <li>I'm looking to collaborate on different projects 💻</li>
         <li>I'm interested in cybersecurety and AI 📚</li>
-        <li>I love reading scientific articles 🔭</li>
-        <li>I love playing videogames 🎮</li>
+        <li>I enjoy reading scientific articles 🔭</li>
+        <li>I enjoy playing videogames 🎮</li>
         <li>I love travelling around the world 🗺️</li>
     </ul>
 </div>
