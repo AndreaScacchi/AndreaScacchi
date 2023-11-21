@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ## My dev card
-<div>
+<div align="center">
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
 </div>
 
