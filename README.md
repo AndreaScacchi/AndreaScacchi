@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->  
 
 <div>
-    <h2 align="center">A bit more on me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="40px"></h2>
+    <h2 align="center">A bit more on me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"></h2>
     <h5> - I'm a self-taught Software Developer that love spending time reading documentation🧑‍💻</h5>
     <h5> - I'm currently studying on Udacity and different academic books. They are the fundamentals of my journey 🎓</h5>
     <h5> - I'm looking to collaborate on different projects. I know HTML, CSS, JS, and Python, but if I have to, I'll learn more 💻</h5>
