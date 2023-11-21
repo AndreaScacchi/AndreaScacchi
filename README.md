@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"></h1>
+    <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h1>
     <h5>
         Greeting from Rome, Italy! I'm Andrea, a self-taught software developer. 
         Thanks to my previous experience in London, UK, where I lived and worked, I figured out how studying is essential. It opened my eyes. I always believed that starting a formal university education was the sole path         to knowledge.
