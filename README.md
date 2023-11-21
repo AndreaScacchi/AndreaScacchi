@@ -30,15 +30,13 @@ Here are some ideas to get you started:
 
 <div>
     <h2 align="center">A bit more on me 👀</h2>
-    <ul>
-        <li>I'm a Software Developer 🧑‍💻</li>
-        <li>I'm currently studying on Udacity and different academic books 🎓</li>
-        <li>I'm looking to collaborate on different projects 💻</li>
-        <li>I'm interested in cybersecurety and AI 📚</li>
-        <li>I enjoy reading scientific articles 🔭</li>
-        <li>I enjoy playing videogames 🎮</li>
-        <li>I love travelling around the world 🛫</li>
-    </ul>
+    <p>I'm a Software Developer 🧑‍💻</p>
+    <p>I'm currently studying on Udacity and different academic books 🎓</p>
+    <p>I'm looking to collaborate on different projects 💻</p>
+    <p>I'm interested in cybersecurety and AI 📚</p>
+    <p>I enjoy reading scientific articles 🔭</p>
+    <p>I enjoy playing videogames 🎮</p>
+    <p>I love travelling around the world 🛫</p>
 </div>
 
 
