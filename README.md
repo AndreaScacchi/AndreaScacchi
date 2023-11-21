@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-## A bit more on me 👀
 <div>
+    <h2>A bit more on me 👀</h2>
     <ul>
         <li>I'm a Software Developer 🧑‍💻</li>
         <li>I'm currently studying on Udacity and different academic books 🎓</li>
@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 </div>
 
 
-## My dev card
+
 <div align="center">
+    <h2>My dev card 🃏</h2>
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
 </div>
 
