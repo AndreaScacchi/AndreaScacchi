@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <h2>My dev card 🃏 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/medal.gif" width="20px"></h2>
+    <h2>My dev card 🃏 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></h2>
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
 </div>
 
