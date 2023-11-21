@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <li>I love playing videogames 🎮</li>
 </ul>
 
-<a href="https://app.daily.dev/ghostpy" style="display: flex; float: right;"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>  
+<a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>  
 
 ![[Github Summary Card]](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077)
     
