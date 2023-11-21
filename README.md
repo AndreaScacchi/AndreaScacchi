@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         <li>I love reading scientific articles 🔭</li>
         <li>I love playing videogames 🎮</li>
         <li>I love travelling 🗺️🧳</li>
-        <li>I love UK:🇬🇧:</li>
+        <li>I love UK</li>:gb:
     </ul>
 </div>
 
