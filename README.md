@@ -3,7 +3,7 @@
     <h3>
         Greeting from Rome, Italy! I'm Andrea, a self-taught software developer. 
         Thanks to my previous experience in London, UK, where I lived and worked, I figured out how studying is essential. It opened my eyes. I always believed that starting a formal university education was the sole path to knowledge. 
-Surrounded by London's vibrant diversity, I discovered the infinite possibilities of learning, not just through academic credentials but also through alternative paths that extend far beyond the classroom. Inspired by different people with different background around me, I embraced self-directed learning and embarked on a journey to complement my self-taught skills with industry-recognized certifications.
+Surrounded by London's vibrant diversity, I discovered the infinite possibilities of learning, not just through academic credentials but also through alternative paths that extend far beyond the classroom. Inspired by different people with different background around me, I embraced self-directed learning and embarked on a journey to complement my self-taught skills with industry-recognized certifications.  
 
 Every line of code I write is a testament to my unwavering commitment to mastering this intricate art. Even though I don't have a bachelor's degree in computer science, my passion for this field is pushing me to new heights. By immersing myself in a diversified academic pathway, venturing beyond programming to embrace computer science theory, mathematics, and physics, I'm gaining knowledge and skills that align perfectly with the demands of the corporate world.
 
