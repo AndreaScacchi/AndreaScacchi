@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-<ul>
-    <li>I'm a Software Developer 🧑‍💻</li>
-    <li>I'm currently studying on Udacity 🎓</li>
-    <li>I'm looking to collaborate on different projects 💻</li>
-    <li>I'm interested in cybersecurety and AI 📚</li>
-    <li>I love reading scientific articles 🔭</li>
-    <li>I love playing videogames 🎮</li>
-</ul>
+
+<div align="center">
+    <ul>
+        <li>I'm a Software Developer 🧑‍💻</li>
+        <li>I'm currently studying on Udacity 🎓</li>
+        <li>I'm looking to collaborate on different projects 💻</li>
+        <li>I'm interested in cybersecurety and AI 📚</li>
+        <li>I love reading scientific articles 🔭</li>
+        <li>I love playing videogames 🎮</li>
+    </ul>
+</div>
 
 <div align="center">
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
