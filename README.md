@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
+## Who I am
 <div>
     <ul>
         <li>I'm a Software Developer 🧑‍💻</li>
