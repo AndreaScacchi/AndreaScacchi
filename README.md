@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-<div align="center">
-    <ul align="center">
-        <li align="center">I'm a Software Developer 🧑‍💻</li>
+<div>
+    <ul>
+        <li>I'm a Software Developer 🧑‍💻</li>
         <li>I'm currently studying on Udacity 🎓</li>
         <li>I'm looking to collaborate on different projects 💻</li>
         <li>I'm interested in cybersecurety and AI 📚</li>
