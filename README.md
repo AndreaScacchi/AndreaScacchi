@@ -50,5 +50,5 @@
 <br>
 <br>
 <div align="center">
-    <img align="center" src="articles.gif">
+    <h5><img align="center" src="articles.gif"></h5>
 </div>
