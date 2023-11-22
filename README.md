@@ -50,6 +50,5 @@
 <br>
 <br>
 <div align="center">
-    <h5></h5>
     <img align="center" src="articles.gif">
 </div>
