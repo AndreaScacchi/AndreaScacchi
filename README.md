@@ -18,7 +18,7 @@
 </div>  
 <br>
 <br>
-<div>
+<div align="center">
     <h2 align="center">A bit more about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"></h2>
     <img align="center" src="andrea.gif">
     <h5> - I'm a self-taught Software Developer that love spending time reading documentation and develop new ideas🧑‍💻</h5>
