@@ -39,12 +39,14 @@ Here are some ideas to get you started:
     <h5> - I love travelling around the world, and I can't wait to return in London 🛫</h5>
 </div>
 <br>
+<br>
 <div align="center">
     <h2>My dev card 🃏 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></h2>
     <h5>The following card represents how many and what types of articles I've read on DEV community</h5>
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
 </div>
-
+<br>
+<br>
 <div align="center">
     <h2>Summary card</h2>
     <h5>Below there is a summary card releted to my Github profile</h5>
