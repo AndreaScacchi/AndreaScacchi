@@ -54,3 +54,9 @@ Here are some ideas to get you started:
 
 ![Github Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077)
     
+
+
+
+<a href="">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077" />
+</a>
