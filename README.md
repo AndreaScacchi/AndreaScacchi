@@ -1,9 +1,9 @@
 <div>
     <img align="right" src="github_profile_image.png">
     <br>
-<br>
-<br>
-<br>
+    <br>
+    <br>
+    <br>
 </div>
 <div align="center">
     <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h1>
