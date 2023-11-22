@@ -49,6 +49,6 @@
 </div>
 <br>
 <br>
-<div>
+<div align="center">
     <img align="center" src="articles.gif">
 </div>
