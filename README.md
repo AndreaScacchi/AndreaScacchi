@@ -1,5 +1,5 @@
 <div>
-    <img align="right" alt="Coding" width="400" src="">
+    <img align="right" width="400" src="">
 </div>
 
 <div align="center">
