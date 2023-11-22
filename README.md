@@ -32,7 +32,9 @@
 <br>
 <div align="center">
     <h2>My dev card <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></h2>
-    <h5>The following card represents how many and what types of articles I've read on DEV community</h5>
+    <h5>The following card represents how many and what types of articles I've read on DEV community. I'm trying to learn about different topics, 
+        however, I really enjoy read articles related to software development, algorithms, cybersecurity, AI, computer architecture, math and physics.
+    </h5>
     <a href="https://app.daily.dev/ghostpy" align="center"><img src="https://api.daily.dev/devcards/a3fb4624ddc84c31a43ad3af6eb606d2.png?r=y7j" width="400" alt="Andrea's Dev Card"/></a>      
 </div>
 <br>
