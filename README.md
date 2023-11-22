@@ -2,8 +2,7 @@
     <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h1>
     <img align="right" src="github_profile_image.png">
 </div>
-<br>
-<br>
+
 <div align="center">
     <h5>
         Greeting from Rome, Italy! I'm Andrea, a self-taught software developer. 
