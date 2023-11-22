@@ -1,3 +1,8 @@
+<div>
+    <img align="right" alt="Coding" width="400" src="![image](https://github.com/AndreaScacchi/AndreaScacchi/assets/69596559/6858a047-7a5f-4890-ab0e-136b7de1ccfc)
+">
+</div>
+
 <div align="center">
     <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h1>
     <h5>
