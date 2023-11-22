@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <h5>Below there is a summary card releted to my Github profile</h5>
 </div>
 
-![Github Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077)
+<!--![Github Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077)-->
     
 
 
