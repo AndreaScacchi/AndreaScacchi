@@ -20,6 +20,7 @@
 <br>
 <div>
     <h2 align="center">A bit more about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"></h2>
+    <img align="center" src="andrea.gif">
     <h5> - I'm a self-taught Software Developer that love spending time reading documentation and develop new ideas🧑‍💻</h5>
     <h5> - I'm currently studying on Udacity and different academic books. They lay the foundation for my path as a software developer 🎓</h5>
     <h5> - I'm looking to collaborate on different projects. So far I learned HTML, CSS, JS, and Python, but I'm continuously expanding my skillset 💻</h5>
@@ -45,6 +46,3 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077" />
 </div>
 
-<div align="center">
-    <img align="center" src="andrea.gif">
-</div>
