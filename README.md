@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 
 
 
-<a align="center">
+<div align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077" />
-</a>
+</div>
