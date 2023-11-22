@@ -38,9 +38,7 @@ Here are some ideas to get you started:
     <h5> - I enjoy playing videogames, but most of all, I really love reading news abut them 🎮</h5>
     <h5> - I love travelling around the world, and I can't wait to return in London 🛫</h5>
 </div>
-
-
-
+<br>
 <div align="center">
     <h2>My dev card 🃏 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></h2>
     <h5>The following card represents how many and what types of articles I've read on DEV community</h5>
