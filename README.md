@@ -55,5 +55,5 @@
 </div>
 <br>
 <div>
-    <a href="medium.com/@ascacchi10" target="_blank"><img align="center" src="https://github-readme-medium.vercel.app/?username=@ascacchi10"/></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0" alt="Recent Article 0"> </a>
 </div>
