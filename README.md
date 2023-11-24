@@ -51,8 +51,7 @@
 <br>
 <br>
 <div align="center">
-    <h2>My Medium blog</h2>
-    <img align="center" src="articles.gif">
+    <h2><img align="center" src="articles.gif"></h2>
     <h5>Below there are my latest articles written on the Medium blog</h5>
 </div>
 <br>
