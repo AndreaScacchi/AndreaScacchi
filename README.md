@@ -54,6 +54,6 @@
     <img align="center" src="articles.gif">
 </div>
 <br>
-<div>
+<div align="center">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0" alt="Recent Article 0"> </a>
 </div>
