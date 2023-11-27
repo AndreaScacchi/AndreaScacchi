@@ -24,7 +24,7 @@
     <h5 align="left"> - I'm a self-taught Software Developer that love spending time reading documentation and develop new ideas🧑‍💻</h5>
     <h5 align="left"> - I'm currently studying on Udacity and different academic books. They lay the foundation for my path as a software developer 🎓</h5>
     <h5 align="left"> - I'm looking to collaborate on different projects. So far I learned HTML, CSS, JS, and Python, but I'm continuously expanding my skillset 💻</h5>
-    <h5 align="left"> - I'm interested in Cybersecurity and AI. They ignite my passion for exploration and discovery as they present endless opportunities for learning and growth 📚</h5>
+    <h5 align="left"> - I'm interested in AI and Autonomous Systems. They ignite my passion for exploration and discovery as they present endless opportunities for learning and growth 📚</h5>
     <h5 align="left"> - I enjoy reading scientific articles. They serve as gateways to expanding my understanding of the world and the universe 🔭</h5>
     <h5 align="left"> - I enjoy playing videogames, but most of all, I really love reading news abut them, where I discover new trends, insights, and perspectives 🎮</h5>
     <h5 align="left"> - I'm a big fan of comic strips. I love getting lost in them. It's like stepping into another world for a little while 💬 </h5>
