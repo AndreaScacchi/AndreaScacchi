@@ -70,4 +70,7 @@
     <a href="https://www.linkedin.com/in/andrea-scacchi-10/">
         <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://andreascacchi.netlify.app/">
+        <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=netlify&logoColor=black" alt="LinkedIn Badge"/>
+    </a>
 </div>
