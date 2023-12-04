@@ -61,3 +61,7 @@
     <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1" alt="Recent Article"  width="60%"> </a>
 </div>
+<br>
+<div align="center">
+    <h2><img align="center" src="contacts.gif"></h2>
+</div>
