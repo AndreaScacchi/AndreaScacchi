@@ -63,5 +63,5 @@
 </div>
 <br>
 <div align="center">
-    <h2><img align="center" src="contacts.gif"></h2>
+    <h2>Contacts📨</h2>
 </div>
