@@ -45,7 +45,7 @@
 <br>
 <div align="center">
     <h2>Summary card <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px"></h2></h2>
-    <h5>Below there is a summary card releted to my Github profile</h5>
+    <h5>Here's a summary card releted to my Github profile</h5>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreaScacchi&theme=2077" />
 </div>
 <br>
