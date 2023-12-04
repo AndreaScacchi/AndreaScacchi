@@ -56,7 +56,7 @@
 </div>
 <br>
 <div align="center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0" alt="Recent Article" width="65%"> </a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0" alt="Recent Article" width="60%"> </a>
     <br>
     <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1" alt="Recent Article"  width="65%"> </a>
