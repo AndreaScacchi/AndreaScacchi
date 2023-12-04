@@ -66,9 +66,11 @@
     <h2>Contacts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="25px"></h2>
     <ul>
         <li align="left">Email -> andreascacchi10@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="12px"></li>
-       <a href="https://www.linkedin.com/in/andrea-scacchi-10/">
-            <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-       </a>
+        <li>
+           <a href="https://www.linkedin.com/in/andrea-scacchi-10/">
+                <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+           </a>
+        </li>
         <li align="left">Medium -> <a target="_blank" href="https://medium.com/@ascacchi10">My Medium Profile <img src="https://img.shields.io/badge/Medium" width="12px"></a></li>
     </ul>
 </div>
