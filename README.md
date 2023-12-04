@@ -64,6 +64,6 @@
 <br>
 <div align="center">
     <h2>Contacts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px"></h2>
-    <h5>Email -> andreascacchi10@gmail.com</h5>
-    <h5>Linkedin -> <a target="_blank" href="https://www.linkedin.com/in/andrea-scacchi-10/">My Profile</a></h5>
+    <h5 align="left">Email -> andreascacchi10@gmail.com</h5>
+    <h5 align="left">Linkedin -> <a target="_blank" href="https://www.linkedin.com/in/andrea-scacchi-10/">My Profile</a></h5>
 </div>
