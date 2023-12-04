@@ -63,5 +63,5 @@
 </div>
 <br>
 <div align="center">
-    <h2>Contacts<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px"></h2>
+    <h2>Contacts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px"></h2>
 </div>
