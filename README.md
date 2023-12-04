@@ -71,6 +71,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
     </a>
     <a target="_blank" href="https://andreascacchi.netlify.app/">
-        <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=netlify&logoColor=black" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify Badge"/>
     </a>
 </div>
