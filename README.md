@@ -56,7 +56,7 @@
 </div>
 <br>
 <div align="left">
-    <a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - Decoding Computer Science: My Journey from Novice to Now</a>
+    <a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - <h5>Decoding Computer Science: My Journey from Novice to Now</h5></a>
     <br>
     <br>
     <a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - Tips for Organizing Your Self-Taught Software Developer Journey</a>
