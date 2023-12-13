@@ -56,7 +56,7 @@
 </div>
 <br>
 <div align="center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/0" alt="Recent Article" width="60%"> </a>
+    <a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"><h5 align="left"> - I'm a self-taught Software Developer that love spending time reading documentation and develop new ideas🧑‍💻</h5> </a>
     <br>
     <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ascacchi10/1" alt="Recent Article"  width="60%"> </a>
