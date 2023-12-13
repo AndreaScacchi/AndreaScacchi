@@ -58,8 +58,7 @@
 <div align="left">
     <h5><a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - Decoding Computer Science: My Journey from Novice to Now</a></h5>
     <br>
-    <br>
-    <a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - Tips for Organizing Your Self-Taught Software Developer Journey</a>
+    <h5><a target="_blank" href="https://medium.com/@ascacchi10/decoding-computer-science-my-journey-from-novice-to-now-f6041264ea99"> - Tips for Organizing Your Self-Taught Software Developer Journey</a></h5>
 </div>
 <br>
 <div align="center">
