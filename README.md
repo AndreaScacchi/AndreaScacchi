@@ -29,8 +29,6 @@
     <h5 align="left"> - I enjoy playing videogames, but most of all, I really love reading news abut them, where I discover new trends, insights, and perspectives 🎮</h5>
     <h5 align="left"> - I'm a big fan of comic strips. I love getting lost in them. It's like stepping into another world for a little while 💬 </h5>
     <h5 align="left"> - I love travelling around the world, and I can't wait to return in London that remains my cherished home away from home 🛫</h5>
-    <h4>And last but not least <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" height="26px" width="15px"></h4>
-    <img align="center" src="cs.gif">
 </div>
 <br>
 <br>
