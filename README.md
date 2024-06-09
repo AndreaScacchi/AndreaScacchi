@@ -5,9 +5,8 @@
 
 <div align="center"> 
     <h5>
-        Greeting from Rome, Italy! I'm Andrea, a self-taught software developer. 
-        Thanks to my previous experience in London, UK, where I lived and worked, I figured out how studying is essential. It opened my eyes. I always believed that starting a formal university education was the sole path         to knowledge.
-        Surrounded by London's vibrant diversity, I discovered the infinite possibilities of learning, not just through academic credentials but also through alternative paths that extend far beyond the classroom.                 Inspired by different people with different background around me, I embraced self-directed learning and embarked on a journey to complement my self-taught skills with industry-recognized certifications.
+        Greeting from Rome, Italy! I'm Andrea, a university student. 
+        I began my journey in Rome, where life took an unexpected turn that eventually led me to London. It was in London that I truly understood the importance of education through my experiences and started taking online courses to enhance my skills. Upon returning to Rome, I faced significant challenges but turned to programming and completed several important online specializations to rebuild my career. My efforts paid off as I transitioned into freelance development and later secured a position as a programmer in a company. Motivated by a deep-seated passion for learning, I initially enrolled in a computer science program before ultimately discovering my true calling in the realm of physics. Today, I am pursuing a bachelor's degree in Physics at a university in Rome, driven by a curiosity to delve into the fundamental principles of nature.
     </h5>
     <h5>
         Every line of code I write is a testament to my unwavering commitment to mastering this intricate art. Even though I don't have a bachelor's degree in computer science, my passion for this field is pushing me to           new heights. By immersing myself in a diversified academic pathway, venturing beyond programming to embrace computer science theory, mathematics, and physics, I'm gaining knowledge and skills that align perfectly          with the demands of the corporate world.
