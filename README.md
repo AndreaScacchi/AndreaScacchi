@@ -51,9 +51,6 @@
 <br>
 <div align="center">
     <h2>Contacts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="25px"></h2>
-    <a target="_blank" href="https://medium.com/@ascacchi10">
-        <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-    </a>
     <a target="_blank" href="https://www.linkedin.com/in/andrea-scacchi-10/">
         <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
     </a>
