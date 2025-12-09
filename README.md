@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h1>
-    <img align="center" src="andrea_dinsey_font_animation.gif">
+    <img align="center" src="andrea_disney_font_animation.gif">
 </div>
 
 <div align="center"> 
