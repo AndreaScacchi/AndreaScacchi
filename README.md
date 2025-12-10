@@ -14,7 +14,7 @@
 <br>
 <div align="center">
     <h2 align="center">A bit more about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"></h2>
-    <img align="center" src="andrea.gif">
+    <img align="center" src="think_code_discover.gif">
     <h5 align="left"> - I'm interested in Data Analysis and Cybersecurity 📚</h5>
     <h5 align="left"> - I enjoy reading scientific articles. They serve as gateways to expanding my understanding of the world and the universe 🔭</h5>
     <h5 align="left"> - I enjoy playing videogames, but most of all, I really love reading news abut them, where I discover new trends, insights, and perspectives 🎮</h5>
