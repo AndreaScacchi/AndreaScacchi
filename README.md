@@ -11,7 +11,7 @@
         I’m not the “<i>follow the roadmap</i>” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
         <br>
         <br>
-        I don’t follow trends. I don’t solve things “the usual way.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
+        I don’t follow trends. I don’t solve things “<i>the usual way</i>.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
         To me, computing is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
         <br>
         <br>
