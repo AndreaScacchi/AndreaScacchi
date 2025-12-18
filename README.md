@@ -3,7 +3,7 @@
     <img align="center" src="hi.gif">
 </div>
 
-<div align="center" style="color:yellow;"> 
+<div align="center"> 
     <h5>
         Hi, I’m <em>Andrea</em> — a Computer Science student at the <em>University of Tor Vergata</em>. What fascinates me isn’t just writing code, but understanding the                 concepts that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that         make these systems coherent and powerful.
         <br>
@@ -16,7 +16,7 @@
         <br>
         <br>
         This mindset grew from a simple but essential question I asked myself when choosing this path: What ties all of this together?
-        Hardware, programming languages, operating systems, networks, algorithms, logic, discrete math, probability, calculus, linear algebra — why are these the           foundations of Computer Science, and how do they connect?
+        <em>Hardware</em>, <em>programming languages</em>, <em>operating systems</em>, <em>networks</em>, <em>algorithms</em>, <em>logic</em>, <em>discrete math</em>, <em>probability</em>, <em>calculus</em>, <em>linear algebra</em> — why are these the <strong>foundations of Computer Science</strong>, and how do they connect?
         <br>
         <br>
         That question shaped my way of thinking. Now my focus is clear: to understand the theory behind everything as deeply as possible, because that’s what               separates a programmer from a computer scientist.
