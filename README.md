@@ -8,7 +8,7 @@
         Hi, I’m <em>Andrea</em> — a Computer Science student at the <em>University of Tor Vergata</em>. What fascinates me isn’t just writing code, but understanding the                 concepts that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that         make these systems coherent and powerful.
         <br>
         <br>
-        I’m not the “<bold>follow the roadmap</bold>” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
+        I’m not the “<i>follow the roadmap</i>” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
         <br>
         <br>
         I don’t follow trends. I don’t solve things “the usual way.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
