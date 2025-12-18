@@ -7,12 +7,21 @@
     <h5>
         Hi, I’m Andrea — a Computer Science student at the University of Tor Vergata. What fascinates me isn’t just writing code, but understanding the concepts            that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that make these         systems coherent and powerful.
         <br>
+        <br>
         I’m not the “follow the roadmap” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
+        <br>
+        <br>
         I don’t follow trends. I don’t solve things “the usual way.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
         To me, computing is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
+        <br>
+        <br>
         This mindset grew from a simple but essential question I asked myself when choosing this path: What ties all of this together?
         Hardware, programming languages, operating systems, networks, algorithms, logic, discrete math, probability, calculus, linear algebra — why are these the           foundations of Computer Science, and how do they connect?
+        <br>
+        <br>
         That question shaped my way of thinking. Now my focus is clear: to understand the theory behind everything as deeply as possible, because that’s what               separates a programmer from a computer scientist.
+        <br>
+        <br>
         That’s the path I’ve chosen — and the one I build every day.
     </h5>
 </div>  
