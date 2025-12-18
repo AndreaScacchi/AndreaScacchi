@@ -32,11 +32,11 @@
 <div align="center">
     <h2 align="center">A bit more about me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"></h2>
     <img align="center" src="think_code_discover.png">
-    <h5 align="left"> - I'm interested in Cybersecurity 📚💻</h5>
-    <h5 align="left"> - I enjoy reading scientific articles 🔭♾️</h5>
-    <h5 align="left"> - I enjoy playing videogames and reading news abut them 🎮🕹️</h5>
-    <h5 align="left"> - I'm a big fan of books. I love getting lost in them. It's like stepping into another world for a little while 💬📖</h5>
-    <h5 align="left"> - I love travelling around the world, and I can't wait to return in London that remains my cherished home away from home 🛫🗺️</h5>
+    <h5 align="left"> - I'm interested in <em>Cybersecurity</em> and <em>Scientific Programming</em> 📚💻</h5>
+    <h5 align="left"> - I enjoy reading <em>scientific articles</em> 🔭♾️</h5>
+    <h5 align="left"> - I enjoy playing <em>videogames</em> and reading news abut them 🎮🕹️</h5>
+    <h5 align="left"> - I'm a big fan of <em>books</em>. I love getting lost in them. It's like stepping into another world for a little while 💬📖</h5>
+    <h5 align="left"> - I love <em>travelling around the world</em>, and I can't wait to return in <em>London</em> that remains my cherished home away from home 🛫🗺️</h5>
 </div>
 <br>
 <br>
