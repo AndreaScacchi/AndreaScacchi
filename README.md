@@ -6,6 +6,7 @@
 <div align="center"> 
     <h5>
         Hi, I’m Andrea — a Computer Science student at the University of Tor Vergata. What fascinates me isn’t just writing code, but understanding the concepts            that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that make these         systems coherent and powerful.
+        <br>
         I’m not the “follow the roadmap” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
         I don’t follow trends. I don’t solve things “the usual way.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
         To me, computing is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
