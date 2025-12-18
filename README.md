@@ -12,6 +12,8 @@
         <br>
         <br>
         I don’t follow trends. I don’t solve things “<i>the usual way</i>.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
+        <br>
+        <br>
         To me, computing is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
         <br>
         <br>
