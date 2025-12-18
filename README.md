@@ -16,10 +16,10 @@
         <br>
         <br>
         This mindset grew from a simple but essential question I asked myself when choosing this path: What ties all of this together?
-        <em>Hardware</em>, <em>programming languages</em>, <em>operating systems</em>, <em>networks</em>, <em>algorithms</em>, <em>logic</em>, <em>discrete math</em>, <em>probability</em>, <em>calculus</em>, <em>linear algebra</em> — why are these the <strong>foundations of Computer Science</strong>, and how do they connect?
+        <em>Hardware</em>, <em>programming languages</em>, <em>operating systems</em>, <em>networks</em>, <em>algorithms</em>, <em>logic</em>, <em>discrete math</em>, <em>probability</em>, <em>calculus</em>, <em>linear algebra</em> — why are these the foundations of Computer Science, and how do they connect?
         <br>
         <br>
-        That question shaped my way of thinking. Now my focus is clear: to understand the theory behind everything as deeply as possible, because that’s what               separates a programmer from a computer scientist.
+        That question shaped my way of thinking. Now my focus is clear: to understand the theory behind everything as deeply as possible, because that’s what               separates a Programmer from a <em>Computer Scientist</em>.
         <br>
         <br>
         That’s the path I’ve chosen — and the one I build every day.
