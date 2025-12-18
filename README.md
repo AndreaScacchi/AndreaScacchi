@@ -14,7 +14,7 @@
         I don’t follow trends. I don’t solve things “<i>the usual way</i>.” If there’s a path everyone takes, I’ll probably check what’s beside it — the longer, quieter           route where thinking happens, where the best solution reveals itself as the one that fits the problem, not the one that’s fashionable.
         <br>
         <br>
-        To me, computing is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
+        To me, <em>computing</em> is a living theory — a place where reasoning becomes creation. Every concept, from a basic function to an entire system, is a doorway into         understanding how human thought can be transformed into structured, executable logic.
         <br>
         <br>
         This mindset grew from a simple but essential question I asked myself when choosing this path: What ties all of this together?
@@ -24,7 +24,7 @@
         That question shaped my way of thinking. Now my focus is clear: to understand the theory behind everything as deeply as possible, because that’s what               separates a Programmer from a <em>Computer Scientist</em>.
         <br>
         <br>
-        That’s the path I’ve chosen — and the one I build every day.
+        <em>That’s the path I’ve chosen — and the one I build every day</em>.
     </h5>
 </div>  
 <br>
