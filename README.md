@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
-    <h5>
+    <h5 color="yellow">
         Hi, I’m <em>Andrea</em> — a Computer Science student at the <em>University of Tor Vergata</em>. What fascinates me isn’t just writing code, but understanding the                 concepts that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that         make these systems coherent and powerful.
         <br>
         <br>
