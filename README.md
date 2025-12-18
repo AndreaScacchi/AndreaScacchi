@@ -5,7 +5,7 @@
 
 <div align="center"> 
     <h5>
-        Hi, I’m Andrea — a Computer Science student at the University of Tor Vergata. What fascinates me isn’t just writing code, but understanding the                 concepts that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that         make these systems coherent and powerful.
+        Hi, I’m <em>Andrea</em> — a Computer Science student at the <em>University of Tor Vergata</em>. What fascinates me isn’t just writing code, but understanding the                 concepts that give it structure: the theories behind programming languages, the logic that shapes computational thinking, and the mathematical ideas that         make these systems coherent and powerful.
         <br>
         <br>
         I’m not the “follow the roadmap” type. I care about fundamentals. I spend a lot of time alone with problems because that’s where I think clearly — no               noise, no shortcuts, no rushing. Just me, the problem, and the drive to push it until the solution stops being merely acceptable and becomes logically              solid and genuinely efficient — the natural consequence of understanding.
